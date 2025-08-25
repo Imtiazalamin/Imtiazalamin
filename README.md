@@ -1,16 +1,34 @@
-# Hi there 👋, I'm Imtiaz Islam Alamin
-#### wev developer
-![wev developer]( Saeed https://www.facebook.com/share/1FnH9bm72S/)
+👋 Hello, I'm Md. Alamin!
 
-My name is Md. Alamin, a 22-year-old from Narayanganj, currently studying Honours 1st Year at Kodom Rosul College.
-I’m learning Python programming and web development to build practical skills alongside my studies.
-I’m also preparing for the IELTS exam to improve my English for future education and career opportunities.
+💼 I’m a Python & Django Backend Developer focused on building secure, scalable, and data-driven web applications. I design RESTful APIs using Django REST Framework and FastAPI, integrate PostgreSQL databases, and implement authentication, search/filter, and notification systems.
 
-Skills: English/ python / HTML / CSS
+🛠️ I specialize in Backend Engineering, creating maintainable and efficient code for practical projects. I actively collaborate with teams to optimize API performance, automate workflows, and deliver robust backend solutions.
 
-- 🔭 I’m currently working on this page. 
-- 👯 I’m looking to collaborate on web develop 
+🧠 I’m also passionate about Python programming, web development, and database optimization, continuously learning to improve my skills and contribute to real-world applications.
 
+🎓 Currently, I’m studying Honours 1st Year at Kodom Rosul College, while gaining practical experience in backend development and RESTful API design.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Imtiazalamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1FnH9bm72S/)  
+🚀 I thrive on solving real-world problems with code, automation, and well-structured backend systems.
 
+🔭 What I'm Working On
+
+Medicine Finder App with JWT authentication, search & filter APIs, wishlist, and seller alert system.
+
+Learning advanced backend concepts, REST API design, and database optimization.
+
+🛠 Skills
+Programming Languages: Python, SQL
+Backend Frameworks: Django, Django REST Framework, FastAPI
+Database Systems: PostgreSQL, SQLite
+Dev Tools: Git, Postman, SMTP
+Other: API design, JWT auth, automation
+
+🌱 What I'm Learning
+
+Advanced Django & FastAPI backend development
+
+REST API optimization, query optimization, and scalable architecture
+
+Machine Learning basics with Python for data-driven features
+
+Best practices in software development and deployment
