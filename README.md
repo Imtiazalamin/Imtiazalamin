@@ -13,8 +13,8 @@
 ---
 
 ## 🔭 What I'm Working On
-- **Medicine Finder App** with JWT authentication, search & filter APIs, wishlist, and seller alert system.  
-- Learning **advanced backend concepts**, REST API design, and **database optimization**.
+- **Medicine Finder App** with **JWT authentication, search & filter APIs, wishlist, and seller alert system**.  
+- Learning **advanced backend concepts**, **REST API design**, and **database optimization**.
 
 ---
 
@@ -45,3 +45,11 @@
 - **REST API optimization**, query optimization, and scalable architecture  
 - **Machine Learning basics** with Python for data-driven features  
 - Best practices in **software development and deployment**
+
+ ## 💼 Get in Touch
+Feel free to check out my projects on GitHub and reach out if you'd like to connect or collaborate!  
+
+- **LinkedIn:** [Md. Alamin](https://www.linkedin.com/in/md-alamin-9860a6358/)  
+- **Email:** [mda757637@gmail.com](mailto:mda757637@gmail.com)  
+
+Thanks for visiting, and have a great day! 😄
