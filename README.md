@@ -55,6 +55,6 @@ Feel free to check out my projects on GitHub and reach out if you'd like to conn
 Thanks for visiting, and have a great day! 😄
 
 
-**Certificate:** [MSB Academy Certificate](https://drive.google.com/file/d/1aLr2junwObcqrVsrpOMNjqGmaK0E0H4t/view?usp=drive_link)
+
 
 
