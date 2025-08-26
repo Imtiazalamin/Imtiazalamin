@@ -53,3 +53,5 @@ Feel free to check out my projects on GitHub and reach out if you'd like to conn
 - **Email:** [mda757637@gmail.com](mailto:mda757637@gmail.com)  
 
 Thanks for visiting, and have a great day! 😄
+**GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imtiazalamin)
+
