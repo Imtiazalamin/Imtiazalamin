@@ -53,7 +53,8 @@ Feel free to check out my projects on GitHub and reach out if you'd like to conn
 - **Email:** [mda757637@gmail.com](mailto:mda757637@gmail.com)  
 
 Thanks for visiting, and have a great day! 😄
-[HackerRank Certificate](https://www.hackerrank.com/certificates/0d41fe27973f)
 
+
+**Certificate:** [MSB Academy Certificate](https://drive.google.com/file/d/1aLr2junwObcqrVsrpOMNjqGmaK0E0H4t/view?usp=drive_link)
 
 
